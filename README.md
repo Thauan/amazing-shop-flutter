@@ -1,18 +1,5 @@
 # amazing_shop_flutter
 
-A new Flutter project.
+![simulator_screenshot_28208598-4F46-4197-95E4-89C1EA50AFC2](https://github.com/Thauan/amazing-shop-flutter/assets/6880724/b147e83f-9d6c-4750-b7cd-ea1902f31311)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-<img src="https://media1.tenor.com/images/8cb0035849ff497c31b5395cd6913de0/tenor.gif?itemid=27090533" width="400"/>
+![simulator_screenshot_8C7E850D-93FB-430B-A631-04D499C0E206](https://github.com/Thauan/amazing-shop-flutter/assets/6880724/2a65f518-ad51-412a-ae53-d75e21f74066)

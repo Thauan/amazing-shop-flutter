@@ -1,5 +1,4 @@
 # amazing_shop_flutter
 
-![simulator_screenshot_28208598-4F46-4197-95E4-89C1EA50AFC2|100x145](https://github.com/Thauan/amazing-shop-flutter/assets/6880724/b147e83f-9d6c-4750-b7cd-ea1902f31311)
-
-![simulator_screenshot_8C7E850D-93FB-430B-A631-04D499C0E206|100x145](https://github.com/Thauan/amazing-shop-flutter/assets/6880724/2a65f518-ad51-412a-ae53-d75e21f74066)
+<img width="300" height="650" alt="image" src="https://github.com/user-attachments/assets/4ec3bba4-8ad4-460a-b35f-ee50b3af25e5" />
+<img width="300" height="650" alt="image" src="https://github.com/user-attachments/assets/1cbb1c07-6028-4fa2-a81f-962118aa7fa4" />
